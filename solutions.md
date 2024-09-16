@@ -205,4 +205,3 @@ ORDER BY 2 DESC;
 
 ---
 
-Let me know if you need further clarifications!
