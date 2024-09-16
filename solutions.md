@@ -1,4 +1,3 @@
-Here's your revised content for Netflix Data Analysis using PostgreSQL queries:
 
 ---
 
