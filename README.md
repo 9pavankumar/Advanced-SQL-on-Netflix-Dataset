@@ -1,7 +1,13 @@
 # Advanced-SQL-on-Netflix-Dataset
 
 
-## DATASET HERE :- https://www.kaggle.com/datasets/shivamb/netflix-shows/data
+## Dataset Link :- https://www.kaggle.com/datasets/shivamb/netflix-shows/data
+
+![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+
+
+
+
 
 Here’s a list of the key SQL operators and functions used in the ADVANCED SQL Project on netflix dataset (PostgreSQL):
 
