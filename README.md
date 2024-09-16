@@ -127,3 +127,5 @@ Here’s a list of the key SQL operators and functions used in the ADVANCED SQL 
 5. **Debugging and Maintenance**
 
 By using the `WITH` clause, you structure your query into logical, manageable steps, making it easier to understand and maintain.
+
+### Inspired source;-  https://youtube.com/playlist?list=PLF2u7Zn-dIxbeais0AkBxUqdWM1hnSJDS&si=1QGRqL0hXYdTz4Mh
