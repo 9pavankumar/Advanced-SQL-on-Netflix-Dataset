@@ -1,6 +1,6 @@
 # Advanced-SQL-on-Netflix-Dataset
 
-Here’s a list of the key SQL operators and functions used in the queries you provided, along with explanations of why they are used in PostgreSQL:
+Here’s a list of the key SQL operators and functions used in the ADVANCED SQL Project on netflix dataset (PostgreSQL):
 
 ---
 
@@ -106,4 +106,15 @@ Here’s a list of the key SQL operators and functions used in the queries you p
 
 ---
 
-These operators and functions are fundamental for performing various data manipulation tasks in PostgreSQL, such as filtering, grouping, ranking, and analyzing data from complex datasets.
+### 18. `WITH` Clause (Common Table Expression - CTE)
+
+**Usage**: Defines a Common Table Expression (CTE) that acts as a temporary result set which you can refer to within a `SELECT`, `INSERT`, `UPDATE`, or `DELETE` query.
+
+**Why**:
+1. **Simplifies Complex Queries**
+2. **Improves Readability**
+3. **Reusability**
+4. **Recursive Queries**
+5. **Debugging and Maintenance**
+
+By using the `WITH` clause, you structure your query into logical, manageable steps, making it easier to understand and maintain.
